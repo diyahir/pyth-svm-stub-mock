@@ -1,5 +1,5 @@
 [toolchain]
-anchor = "0.30.0"
+anchor = "0.29.0"
 
 [features]
 resolution = true

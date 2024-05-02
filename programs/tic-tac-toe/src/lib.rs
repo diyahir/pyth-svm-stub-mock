@@ -1,5 +1,5 @@
 use anchor_lang::prelude::*;
-use pyth_solana_receiver_sdk::price_update::PriceUpdateV2;
+// use pyth_solana_receiver_sdk::price_update::PriceUpdateV2;
 
 declare_id!("LCoArfVL5kQiKe9kvoApLn3YFrE1MMrZ8Lj3Bmhumqg");
 

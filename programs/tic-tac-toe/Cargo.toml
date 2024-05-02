@@ -17,12 +17,13 @@ no-log-ix-name = []
 idl-build = ["anchor-lang/idl-build"]
 
 [dependencies]
-anchor-lang = "0.30.0"
-solana-program = "1.18.11"
-ahash = "0.8.6"
+anchor-lang = "0.29.0"
+solana-program = "1.17.32"
+ahash = "0.8.5"
 bytemuck = { version = "1.4.0", features = ["derive", "min_const_generics"] }
-pyth-solana-receiver-sdk = "0.2.0"
+switchboard-solana = "0.29.106"
+# pyth-solana-receiver-sdk = "0.2.0"
 
 [dev-dependencies]
-solana-program-test = "1.18.11"
-solana-sdk = "1.18.11"
+solana-program-test = "1.17.32"
+solana-sdk = "1.17.32"

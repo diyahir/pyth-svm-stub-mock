@@ -1,12 +1,12 @@
 [toolchain]
-anchor = "0.30.0"
+anchor = "0.29.0"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.localnet]
-tic_tac_toe = "LCoArfVL5kQiKe9kvoApLn3YFrE1MMrZ8Lj3Bmhumqg"
+pyth_stub = "BjLKu19Kbqnc43dSDD7aKSrTxahskhkAsKh85Pmmewr2"
 
 [registry]
 url = "https://api.apr.dev"
